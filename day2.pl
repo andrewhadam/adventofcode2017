@@ -15,6 +15,4 @@ while (my $row = <$fh>) {
 	print "Minimum: $min, Maximum: $max\n";
 }
 print "Check Sum: $check_sum";
-#print $hash_array[0]->[0];
-#print length($hash_array[0]);
 print "The End\n";
